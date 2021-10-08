@@ -16,7 +16,7 @@ In Snake game v1.0, you can go <i>anywhere without losing</i> but <i>if you touc
 <h2><b>Snake game v1.1</b></h2>
 
 In Snake game v1.1, you can't go anywhere. That means you <i>can't go through the edge to other side.</i>
-<br>if you <i>touch the edge you will lose.</i>but <i>points will be counted.</i>
+<br>if you <i>touch the edge you will lose.</i>but <i>points will be counted.</i>Remember this is very hard.
 
 Enjoy playing! Bye! Bye!👋🏻👋🏻
 
