@@ -19,3 +19,5 @@ In Snake game v1.1, you can't go anywhere. That means you <i>can't go through th
 <br>if you <i>touch the edge you will lose.</i>but <i>points will be counted.</i>
 
 Enjoy playing! Bye! Bye!👋🏻👋🏻
+
+You can download the .py file in <a href="https://www.github.com/RedEdge967/RedEdge967-Snake-Game/releases">Here.</a>
