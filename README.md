@@ -1,23 +1,26 @@
-# RedEdge967-Snake-Game
+# Snake-Game
+## what is Snake-Game?
+- Snake-Game is the classic game we played but written in python
+- This program has 2 releases
 
-🌈Hello Everyone!!!🌈
+## Needed
+- Python 3
+- Pygame installed
 
-Welcome! This is my new game called "Snake game" made using python. I made this by getting some ideas from others.
-you have to eat more food to grow longer. When you touch your own, the game will restart. Enjoy!!😃😃
+## How to?
+- Install python 3 and pygame first
+- Download the release from [here](https://github.com/RedEdge967/Snake-Game/releases) and run it with python 3
 
-`Note : you will need python to run this file.`
+### Installing `Pygame`
+- You need to install pygame to run this game. use the command below to install pygame (installing with pip)
+```
+python3 -m pip install -U pygame --user
+```
 
-<h1><i>Release notes</i></h1>
-<h2><b>Snake game v1.0</b></h2>
+## Release notes
+### Snake game v1.0
+- In Snake game `v1.0`, you can go anywhere without losing but if you touch you, you will lose and the game will restart. and the points will not be count.
 
-In Snake game `v1.0`, you can go <i>anywhere without losing</i> but <i>if you touch you,</i>
-<br> you will <i>lose and the game will restart.</i>and the <i>points will not be count.</i>
+### Snake game v1.1
+- In Snake game `v1.1`, you can't go anywhere. That means you can't go through the edge to other side. if you touch the edge you will lose. but points will be counted. Remember this is very hard.
 
-<h2><b>Snake game v1.1</b></h2>
-
-In Snake game `v1.1`, you can't go anywhere. That means you <i>can't go through the edge to other side.</i>
-<br>if you <i>touch the edge you will lose.</i>but <i>points will be counted.</i>Remember this is very hard.
-
-Enjoy playing! Bye! Bye!👋🏻👋🏻
-
-You can download the `.py` file in <a href="https://www.github.com/RedEdge967/RedEdge967-Snake-Game/releases">Here.</a>
